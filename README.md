@@ -1,5 +1,5 @@
-DeathTokens Minecraft Plugin
-Description
+## DeathTokens Minecraft Plugin
+## Description
 
 The DeathTokens plugin is designed to enhance gameplay in Minecraft by introducing a token system that rewards players upon murder. When a player kills another player, they receive a kill token which can be used to redeem various rewards or benefits.
 Features
@@ -9,28 +9,29 @@ Features
     Customizable rewards and benefits.
     Easy configuration and setup.
 
-Installation
+## Installation
 
     Import the repository to intellij
     Use maven install
 
-Usage
+## Usage
 
     Upon player kill, the murderer is awarded a kill token.
     Players can use the kill token by interacting with a designated NPC or block.
 
-Configuration
+## Configuration
 
   I have not yet implemented any configuration because the plugin is only used on one server. If for some reason someone wants to use it on a different server just add an issue asking for configuration and I will try to fix it.
 
-Commands
+## Commands
 
   There are no commands so far due to the plugin only having one use.
 
-Support
+##Support
 
 For support or issues regarding the DeathTokens plugin, please create an issue on the issues tab.
-Contributing
+
+##Contributing
 
 Contributions to the DeathTokens plugin are welcome. Feel free to fork the repository and submit a pull request with your changes.
 License
