@@ -34,9 +34,10 @@ For support or issues regarding the DeathTokens plugin, please create an issue o
 ## Contributing
 
 Contributions to the DeathTokens plugin are welcome. Feel free to fork the repository and submit a pull request with your changes.
-License
 
-This plugin is licensed under the MIT license. See the LICENSE file for more information.
+## License
+
+This plugin does not have a license
 
 ## Disclaimer
 
