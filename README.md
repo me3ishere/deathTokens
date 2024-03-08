@@ -1,7 +1,7 @@
 ## DeathTokens Minecraft Plugin
 ## Description
 
-The DeathTokens plugin is designed to enhance gameplay in Minecraft by introducing a token system that rewards players upon murder. When a player kills another player, they receive a kill token which can be used to redeem various rewards or benefits.
+The DeathTokens plugin is designed to enhance gameplay in Minecraft by introducing a token system that rewards players upon murder. When a player kills another player, they receive a kill token which can be used by server admins for whatever they want, for example, a trading system.
 Features
 
     Upon player kill, a kill token is rewarded.
