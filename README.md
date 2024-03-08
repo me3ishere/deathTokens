@@ -27,17 +27,18 @@ Features
 
   There are no commands so far due to the plugin only having one use.
 
-##Support
+## Support
 
 For support or issues regarding the DeathTokens plugin, please create an issue on the issues tab.
 
-##Contributing
+## Contributing
 
 Contributions to the DeathTokens plugin are welcome. Feel free to fork the repository and submit a pull request with your changes.
 License
 
 This plugin is licensed under the MIT license. See the LICENSE file for more information.
-Disclaimer
+
+## Disclaimer
 
 This plugin is provided as is without any warranty. Use at your own risk.
 
