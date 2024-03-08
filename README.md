@@ -37,7 +37,7 @@ Contributions to the DeathTokens plugin are welcome. Feel free to fork the repos
 
 ## License
 
-This plugin does not have a license
+This plugin uses GNU GPLv3
 
 ## Disclaimer
 
