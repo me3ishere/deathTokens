@@ -39,6 +39,7 @@ This plugin is licensed under the MIT license. See the LICENSE file for more inf
 Disclaimer
 
 This plugin is provided as is without any warranty. Use at your own risk.
-Credits
+
+## Credits
 
 Plugin developed by me3ishere
