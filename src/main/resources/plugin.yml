@@ -1,0 +1,6 @@
+name: DeathTokens
+version: '1.0'
+main: net.me3ishere.deathtokens.DeathTokens
+api-version: 1.20
+authors: [ me3ishere ]
+description: Gives players kill and death tokens
