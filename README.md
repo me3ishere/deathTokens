@@ -21,7 +21,7 @@ Usage
 
 Configuration
 
-  I have not yet implemented any configuration because the plugin is only used on one server. If for some reason someone wants to use it on a different server just add an issue asking for configuratioon and I will try to fix it.
+  I have not yet implemented any configuration because the plugin is only used on one server. If for some reason someone wants to use it on a different server just add an issue asking for configuration and I will try to fix it.
 
 Commands
 
@@ -41,4 +41,4 @@ Disclaimer
 This plugin is provided as is without any warranty. Use at your own risk.
 Credits
 
-    Plugin developed by me3ishere
+Plugin developed by me3ishere
